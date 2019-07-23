@@ -44,8 +44,7 @@
 		C2B82B7022E49283006972A6 = {
 			isa = PBXGroup;
 			children = (
-				C29ACC3B22E736BE0041B87D /* Concetration.swift */,
-				C29ACC3D22E7373D0041B87D /* Card.swift */,
+				C2D402A722E7445A00382C2D /* Model */,
 				C2B82B7B22E49284006972A6 /* GameCards */,
 				C2B82B7A22E49284006972A6 /* Products */,
 			);
@@ -71,6 +70,15 @@
 				C2B82B8A22E49285006972A6 /* Info.plist */,
 			);
 			path = GameCards;
+			sourceTree = "<group>";
+		};
+		C2D402A722E7445A00382C2D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C29ACC3B22E736BE0041B87D /* Concetration.swift */,
+				C29ACC3D22E7373D0041B87D /* Card.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
