@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C29ACC3C22E736BE0041B87D /* Concetration.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29ACC3B22E736BE0041B87D /* Concetration.swift */; };
+		C29ACC3E22E7373D0041B87D /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29ACC3D22E7373D0041B87D /* Card.swift */; };
 		C2B82B7D22E49284006972A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B82B7C22E49284006972A6 /* AppDelegate.swift */; };
 		C2B82B7F22E49284006972A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B82B7E22E49284006972A6 /* SceneDelegate.swift */; };
 		C2B82B8122E49284006972A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B82B8022E49284006972A6 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C29ACC3B22E736BE0041B87D /* Concetration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concetration.swift; sourceTree = "<group>"; };
+		C29ACC3D22E7373D0041B87D /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		C2B82B7922E49284006972A6 /* GameCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2B82B7C22E49284006972A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2B82B7E22E49284006972A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		C2B82B7022E49283006972A6 = {
 			isa = PBXGroup;
 			children = (
+				C29ACC3B22E736BE0041B87D /* Concetration.swift */,
+				C29ACC3D22E7373D0041B87D /* Card.swift */,
 				C2B82B7B22E49284006972A6 /* GameCards */,
 				C2B82B7A22E49284006972A6 /* Products */,
 			);
@@ -140,6 +146,8 @@
 			files = (
 				C2B82B8122E49284006972A6 /* ViewController.swift in Sources */,
 				C2B82B7D22E49284006972A6 /* AppDelegate.swift in Sources */,
+				C29ACC3E22E7373D0041B87D /* Card.swift in Sources */,
+				C29ACC3C22E736BE0041B87D /* Concetration.swift in Sources */,
 				C2B82B7F22E49284006972A6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
